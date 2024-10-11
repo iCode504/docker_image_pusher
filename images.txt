@@ -7,3 +7,4 @@ xhofe/alist:latest
 consul:1.15.4
 redis:latest
 nacos/nacos-server:latest
+openzipkin/zipkin:latest
