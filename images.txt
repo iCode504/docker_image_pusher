@@ -6,5 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 consul:1.15.4
 redis:latest
-zipkin:latest
 nacos/nacos-server:latest
