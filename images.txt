@@ -1,13 +1,7 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 consul:1.15.4
 redis:latest
 nacos/nacos-server:latest
 openzipkin/zipkin:latest
 elasticsearch:8.15.2
 rabbitmq:management
-apache/seata-server:latest
+apache/seata-server:2.2.0
