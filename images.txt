@@ -1,5 +1,5 @@
 consul:1.15.4
-redis:latest
+redis:7.4.1
 nacos/nacos-server:latest
 openzipkin/zipkin:latest
 elasticsearch:8.15.2
