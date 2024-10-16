@@ -1,5 +1,5 @@
 redis:7.4.1
-nacos/nacos-server:2.4.2
+nacos/nacos-server:2.4.2.1
 openzipkin/zipkin:latest
 elasticsearch:8.15.2
 rabbitmq:management
