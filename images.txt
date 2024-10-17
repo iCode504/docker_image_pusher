@@ -1,6 +1,5 @@
 rabbitmq:3.12-management
-nacos/nacos-server:2.4.2.1
+nacos/nacos-server:v2.4.2.1
 openzipkin/zipkin:latest
 elasticsearch:8.15.2
-rabbitmq:management
 apache/seata-server:2.2.0
