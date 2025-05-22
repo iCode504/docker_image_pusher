@@ -11,3 +11,4 @@ nacos/nacos-server:v2.4.2.1
 nacos/nacos-server:v2.4.2
 nacos/nacos-server:v2.4.1
 nginx:1.27
+johnsinclair73/mermaid-live-editor:9.1.7
