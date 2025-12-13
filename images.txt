@@ -1,1 +1,2 @@
 jgraph/drawio
+pubuzhixing/drawnix:latest
