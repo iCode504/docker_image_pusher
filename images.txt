@@ -1,1 +1,1 @@
-hraulein/mind-map:latest
+jgraph/drawio
