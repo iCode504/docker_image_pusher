@@ -1,3 +1,1 @@
-jgraph/drawio
-pubuzhixing/drawnix:latest
-pubuzhixing/drawnix:latest
+elasticsearch:7.17.28
