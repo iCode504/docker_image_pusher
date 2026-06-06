@@ -1,7 +1,1 @@
-ubuntu:24.04
-elasticsearch:7.8.0
-rabbitmq:3.12.4
-mongo:6.0.28
-mongo:7.0.34
-mongo:5.0.33
-centos:centos7.9.2009
+registry:3.0
