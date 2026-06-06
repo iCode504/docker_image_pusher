@@ -1,1 +1,1 @@
-registry:3.0
+sonatype/nexus:2.15.2-03
