@@ -1,1 +1,1 @@
-amazoncorretto:17.0.18
+rustdesk/rustdesk-server:latest
