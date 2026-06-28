@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest
+zookeeper:3.5.8
