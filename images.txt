@@ -1,1 +1,3 @@
-portainer/portainer:latest
+influxdb:1.8.10
+grafana/grafana:12.4.3
+google/cadvisor:latest
